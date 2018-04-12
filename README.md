@@ -1,1 +1,2 @@
-# MathAdventure
+# MathAdventure（通过iPad中的Swift Playgrounds来体验）
+首先在iPad上下载Swift Playgrounds，然后将MathAdventure.playgroundbook通过AirDrop的方式发送到ipad上，在Swift Playgrounds上打开即可体验
